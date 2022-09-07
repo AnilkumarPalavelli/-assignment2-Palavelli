@@ -44,3 +44,13 @@ The nearest airport to the museum is Chennai International Airport.
 | Banglore    |    Banglore Palace   |         4 hours     |
 | Goa         |    Palolem beach     |         5 hours     |
 
+---
+
+## Quotes
+
+> There is enough on Earth for everybody's need but not for everyone's greed - *Mahatma Gandhi*
+
+> When our signature changes to autograph,this marks the Success - *APJ Abdul Kalam*
+
+> Everything come to us that belongs to us if we create the Capacity to recieve it - *Rabindranath Tagore*
+
