@@ -32,3 +32,21 @@ The nearest airport to the museum is Chennai International Airport.
 
 [Aboutme](https://github.com/AnilkumarPalavelli/assignment2-Palavelli/blob/main/AboutMe.md)
 
+---
+
+## Tables
+
+| City Name   | Important Location| Time to spend   |
+
+| :---        |    :----:         |          ---:   |
+
+| Chennai     | Marina Beach      | 3 hours         |
+
+| Hyderabad   | Tank Bund         | 2 hours         |
+
+| Mumbai      | Gateway of India  | 2.5 hours       |
+
+| Banglore    | Banglore Palace   | 4 hours         |
+
+| Goa         | Palolem beach     | 5 hours         |
+
