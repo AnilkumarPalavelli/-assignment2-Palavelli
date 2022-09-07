@@ -20,3 +20,10 @@ The nearest airport to the museum is Chennai International Airport.The distance 
 6. Step down the car
 7. Explore the museum
 
+## Tourist locations around the museum
+* Marina Beach
+* Fountain Plaza
+* Kapaleeshwarar Temple
+* National Art Gallery
+* Children Museum
+
