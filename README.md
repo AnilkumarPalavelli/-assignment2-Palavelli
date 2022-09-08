@@ -54,3 +54,21 @@ The nearest airport to the museum is Chennai International Airport.
 
 > Everything come to us that belongs to us if we create the Capacity to recieve it - *Rabindranath Tagore*
 
+---
+
+## Code Fencing
+
+> How to clear File Input?
+
+please have a look here<https://stackoverflow.com/questions/9617738/how-to-clear-file-input>
+
+```
+var input = $("#control");
+
+function something_happens() {
+    input.replaceWith(input.val('').clone(true));
+};
+
+```
+
+Please have look at the above snippet code<https://css-tricks.com/snippets/jquery/clear-a-file-input/>
